@@ -1,0 +1,8 @@
+.accord-header:not(.collapsed) {
+  background-color: transparent;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+  outline: none;
+}
